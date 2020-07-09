@@ -1,8 +1,4 @@
-<div align="center">
-
 [![HitCount](http://hits.tommasopifferi.com/hits.svg)](https://github.com/neslinesli93/hits-rs)
-
-</div>
 
 ### Hi there 👋
 
