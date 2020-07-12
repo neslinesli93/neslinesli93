@@ -2,7 +2,7 @@
 
 For some good old '90s vibes, a bottom-page hits counter could not be missing
 
-[![HitCount](http://profilehits.tommasopifferi.com/hits.svg)](https://github.com/neslinesli93/hits-rs)
+[![HitCount](http://hits.tommasopifferi.com/hits.svg)](https://github.com/neslinesli93/hits-rs)
 
 <!--
 **neslinesli93/neslinesli93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
